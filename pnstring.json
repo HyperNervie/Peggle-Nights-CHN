@@ -470,7 +470,7 @@
   "Complete stage %d\nin adventure mode to unlock!": "完成冒险模式阶段%d以解锁!",
   "Complete this level\nin adventure mode to unlock!": "在冒险模式完成\n这一关以解锁!",
   "Ace Score: %s": "优异得分: %s",
-  "Top Five Scores": "分数前五名",
+  "Top Five Scores": "得分前五名",
   "Two Player Duel": "双人对战",
   "Pick a Level": "挑选一个关卡",
   "Quick Play": "快速游戏",
@@ -686,7 +686,5 @@
   "DIALOG_BUTTON_NO": "否",
   "DIALOG_BUTTON_CANCEL": "取消",
   "DIALOG_BUTTON_OK": "好",
-  "SAVE_BUTTON": "保存",
-
-  "Arrivance": "球手来也"
+  "SAVE_BUTTON": "保存"
 }
