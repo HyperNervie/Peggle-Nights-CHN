@@ -663,7 +663,7 @@
   "Close": "关闭",
   "End of Trial": "试玩结束",
   "You have reached the end of your free trial. You can still continue playing ^00FF00^Quick Play^oldclr^, ^00FF00^Duel^oldclr^ or the newly unlocked ^00FF00^Challenge^oldclr^ mode.": "你的试玩期已结束。你仍可以继续玩^00FF00^快速游戏^oldclr^、^00FF00^对战^oldclr^或新解锁的^00FF00^挑战^oldclr^模式。",
-  "Please enter your name to create a new user profile for storing high score data and game progress.": "请输入你的名字以创建新用户账户，用于存储高分数据和游戏进度。",
+  "Please enter your name to create a new user profile for storing high score data and game progress.": "请输入你的名字以创建新用户账户，用\n于存储高分数据和游戏进度。",
   "Enter Your Name": "输入你的名字",
   "Name Conflict": "名称冲突",
   "The name you entered is already being used.  Please enter a unique player name.": "你输入的名字已经被占用。请输入一个未占用的名字。",
