@@ -14,7 +14,7 @@ def unescape(escape_chr: re.Match) -> str:
 
 for cfg in cfg_files:
     fin = open(cfg + "_escaped.cfg", "r", encoding="utf-8")
-    fout = open("../" and cfg + ".cfg", "w", encoding="utf-8")
+    fout = open(cfg + ".cfg", "w", encoding="utf-8")
     
     for line in fin.readlines():
         line = re.sub(r"//.*$", "", line).rstrip()
